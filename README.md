@@ -6,12 +6,12 @@ A console-based **Hotel Management System** built in Java, developed as a Data S
 
 ## 👥 Authors
 
-| Name | ID |
-|------|----|
-| Ahmed Abdel Razek | 232903959 |
-| David George Helmy | 231903654 |
-| Ramy Saeed Eliwa | 231903795 |
-| Youssef Amer Sayed | 231903616 |
+| Name |
+|------|
+| Ahmed Abdel Razek | 
+| David George Helmy | 
+| Ramy Saeed Eliwa | 
+| Youssef Amer Sayed | 
 
 ---
 
