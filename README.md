@@ -128,7 +128,6 @@ JavaApplication5/
 ## 📚 Course Context
 
 - **Course**: Data Structures and Algorithms
-- **Semester**: 5th Semester
 
 ---
 
