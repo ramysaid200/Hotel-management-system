@@ -1,0 +1,12 @@
+# NetBeans build artifacts
+build/
+dist/
+nbproject/private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+.idea/
